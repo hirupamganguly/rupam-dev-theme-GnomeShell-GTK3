@@ -1,5 +1,6 @@
 # rupam-dev-theme-GnomeShell-GTK3
-
+## Icons-Pack -   https://github.com/hirupamganguly/Candy-Icons-Modified
+## Youtube Tut- https://youtu.be/iGjOP1DcnKY
 ![Screenshot from 2023-01-31 12-40-27](https://user-images.githubusercontent.com/77056200/215691255-56d17f80-6f0f-477e-976c-fa18c1769016.png)
 ![Screenshot from 2023-01-31 12-40-00](https://user-images.githubusercontent.com/77056200/215691238-44576ef2-a01b-4c57-a56c-2913d68028ca.png)
 ![Screenshot from 2023-01-31 12-38-02](https://user-images.githubusercontent.com/77056200/215691206-e87177f4-682c-4762-99b8-ab5a6029a3b4.png)
